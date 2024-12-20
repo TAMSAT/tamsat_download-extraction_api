@@ -771,4 +771,4 @@ def extract(request):
 
 
 # TAMSAT data URL
-remoteurl = 'http://gws-access.jasmin.ac.uk/public/tamsat/rfe'
+remoteurl = 'https://gws-access.jasmin.ac.uk/public/tamsat/rfe'
